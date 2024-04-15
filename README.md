@@ -1,6 +1,7 @@
 # ipf-vue
 
 This template should help get you started developing with Vue 3 in Vite.
+UI element-plus https://element-plus.org/zh-CN/guide/installation.html
 
 ## Recommended IDE Setup
 
